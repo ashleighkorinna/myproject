@@ -8,7 +8,7 @@ editor_options:
 ---
 
 ## Introduction
-Here us an inital analysis of the teeth data
+Here is an inital analysis of the teeth data
 ```{r import-teeth}
 teeth<-read.csv("data/teeth.csv", row.names=1)
 head(teeth)
